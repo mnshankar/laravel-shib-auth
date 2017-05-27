@@ -1,5 +1,5 @@
 {
-     "name": "mnshankar/uf-shib-auth",
+     "name": "mnshankar/laravel-shib-auth",
      "description": "Convert Shibboleth tokens to equivalent Laravel User Table columns so Laravel auth semantics can be used",
      "license": "MIT",
      "authors": [
